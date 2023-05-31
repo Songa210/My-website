@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+
+}
+.innerbox{
+    padding:16px;
+    background-color: blueviolet;
+    margin: 8px;
+}
